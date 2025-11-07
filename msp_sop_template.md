@@ -1,8 +1,8 @@
-| <img src="https://stfnsrepo.blob.core.windows.net/pics/FNS_H_Full_White.png" alt="FNS Logo" width="300"> | **Falcon Network Services**691 N Squirrel Rd Ste 215 Auburn Hills, MI 48326<br>(248) 726-0577 \| FNS1.com |
-|:---|---:|
+| **Falcon Network Services** 691 N Squirrel Rd Ste 215 Auburn Hills, MI 48326 Ph:(248) 726-0577 \| Web: FNS1.com |
+|:---|
 ---
 
-# [SOP Name]
+# [SOP Title]
 # STANDARD OPERATING PROCEDURE
 
 ---
@@ -10,7 +10,7 @@
 ## Document Control
 
 | **SOP Number:** | SOP-XXX-000 |
-|---|---|
+|:---|:---|
 | **SOP Title:** | [Enter SOP Title] |
 | **Version:** | 1.0 |
 | **Effective Date:** | [MM/DD/YYYY] |
