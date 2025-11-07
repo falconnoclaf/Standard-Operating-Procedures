@@ -1,4 +1,4 @@
-<table width="100%">
+<table style="width: 100%;">
 <tr>
 <td align="left" width="50%">
 <img src="https://stfnsrepo.blob.core.windows.net/pics/FNS_H_Full_White.png" alt="Falcon Network Services" width="300">
