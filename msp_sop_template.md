@@ -1,4 +1,4 @@
-| ![Company Logo](https://stfnsrepo.blob.core.windows.net/pics/Vertical-Trans-150x150.png) | **Falcon Network Services**<br>691 N Squirrel Rd Ste 215<br>Auburn Hills, MI 48326<br>(248) 726-0577 \| FNS1.com |
+| ![Company Logo](https://stfnsrepo.blob.core.windows.net/pics/FNS_H_Full_White.png) | **Falcon Network Services**<br>691 N Squirrel Rd Ste 215<br>Auburn Hills, MI 48326<br>(248) 726-0577 \| FNS1.com |
 |:---|---:|
 
 ---
