@@ -1,4 +1,4 @@
-| **Falcon Network Services** 691 N Squirrel Rd Ste 215 Auburn Hills, MI 48326 Ph:(248) 726-0577 \| Web: FNS1.com |
+| Falcon Network Services 691 N Squirrel Rd Ste 215 Auburn Hills, MI 48326 \| Ph:(248) 726-0577 \| Web: FNS1.com |
 |:---|
 ---
 
