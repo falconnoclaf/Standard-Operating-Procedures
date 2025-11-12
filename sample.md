@@ -2,35 +2,33 @@
 |:---|
 ---
 
-# [SOP Title]
 # STANDARD OPERATING PROCEDURE
 
 ---
+
+## Falcon Network Services
+
+## {name of procedure}
 
 ## Document Control
 
 | **SOP Number:** | SOP-XXX-000 |
 |:---|:---|
-| **SOP Title:** | [Enter SOP Title] |
+| **SOP Title:** | Incident Ticket Management Procedure |
 | **Version:** | 1.0 |
-| **Effective Date:** | [MM/DD/YYYY] |
+| **Effective Date:** | 11/11/2025 |
 | **Last Reviewed:** | [MM/DD/YYYY] |
 | **Next Review Date:** | [MM/DD/YYYY] |
 | **Document Owner:** | [Name/Title] |
 | **Approved By:** | [Name/Title] |
 
-## Applicable Regulations/Frameworks
-
-☐ GLBA  |  ☐ FFIEC  |  ☐ HIPAA  |  ☐ PCI DSS  
-☐ CIS Controls  |  ☐ NIST CSF  |  ☐ Other: _______________
-
 ---
 
-## 1. PURPOSE
+## PURPOSE
 
 [Describe the purpose and objective of this SOP. Explain what process or activity this document governs.]
 
-## 2. SCOPE
+## SCOPE
 
 **Applies To:**  
 - [Department/Team/Role]
@@ -40,7 +38,7 @@
 **Exclusions:**  
 - [Any specific exclusions]
 
-## 3. DEFINITIONS
+## DEFINITIONS
 
 | Term | Definition |
 |---|---|
